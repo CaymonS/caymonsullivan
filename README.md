@@ -1,3 +1,3 @@
 README
 
-This branch is for the live view, NOT FOR DEVELOPEMENT -> Use master
+This branch shows the live view of the page!
