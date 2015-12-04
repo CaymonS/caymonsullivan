@@ -1413,10 +1413,6 @@ a.bg-danger:focus {
   margin: 40px 0 20px;
   border-bottom: 1px solid #eee;
 }
-.page-footer {
-  padding-bottom: 20px;
-  padding-top: 20px;
-}
 ul,
 ol {
   margin-top: 0;
